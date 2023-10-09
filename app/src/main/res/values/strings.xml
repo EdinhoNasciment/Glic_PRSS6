@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Glic</string>
+    <string name="home">Home</string>
+    <string name="alarme">Alarme</string>
+    <string name="grafico">Gráfico</string>
+    <string name="info">Info</string>
+    <string name="seus_alarmes">Seus alarmes :</string>
+    <string name="txt_login">Login :</string>
+    <string name="txt_senha">Senha :</string>
+    <string name="hint_login">Digite seu email</string>
+    <string name="hint_senha">Digite sua senha</string>
+    <string name="txt_btn_login">Login</string>
 </resources>
